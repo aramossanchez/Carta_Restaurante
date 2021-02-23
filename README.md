@@ -24,6 +24,8 @@ _Descargas todos los archivos en el mismo directorio, y abres el archivo courtes
 
 ## -FUNCIONAMIENTO DE LA APLICACION
 
+OPTIMIZADA PARA VISUALIZARSE EN DISPOSITIVOS MÓVILES. LA VERSIÓN PC NO ESTÁ OPTIMIZADA POR RAZONES EVIDENTES
+
 _Puedes ver todos los productos disponibles en el restaurante (carta del restaurante)_
 
 _Tienes enlaces en la parte superior de la página, que al pulsarlos desplegará otros enlaces que te llevarán por las distintas partes de la carta._
@@ -34,11 +36,11 @@ _La particularidad de esta página es su aplicación web: puedes añadir los pro
 
 _Al añadir un producto a la lista pedido, aparecerá un botón palpitante que llevará directamente al precio final del pedido_
 
-_En algunos productos hay desplegables: _
+_En algunos productos hay desplegables:_
 
-_En cada una de las marcas de cerveza podremos elegir si queremos caña, tercio o jarra _
+_En cada una de las marcas de cerveza podremos elegir si queremos caña, tercio o jarra_
 
-_En los refrescos, zumos y batidos podremos elegir el tipo que queramos _
+_En los refrescos, zumos y batidos podremos elegir el tipo que queramos_
 
 _En los cucuruchos de helados podremos elegir el sabor del helado_
 
