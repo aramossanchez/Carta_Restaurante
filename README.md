@@ -4,6 +4,8 @@ _Carta de un restaurante, donde podemos ver todos los productos disponibles. Pod
 
 [Restaurante Fast Food!](http://armandoramossanchez.com/Restaurante/index.html)
 
+![QR](https://raw.githubusercontent.com/aramossanchez/Carta_Restaurante/master/qr-restaurante.png)
+
 ## -TECNOLOGÍAS UTILIZADAS
 
 * HTML5/CSS3
