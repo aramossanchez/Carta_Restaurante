@@ -30,7 +30,7 @@ OPTIMIZADA PARA VISUALIZARSE EN DISPOSITIVOS MÓVILES. LA VERSIÓN PC NO ESTÁ O
 
 _Puedes ver todos los productos disponibles en el restaurante (carta del restaurante)._
 
-_Tienes enlaces en la parte superior de la página, que al pulsarlos desplegarán otros enlaces que te llevarán por las distintas partes de la carta._
+_Tienes enlaces en la parte superior de la página que al pulsarlos desplegarán otros enlaces que te llevarán por las distintas partes de la carta._
 
 _Tienes un botón que, al pulsarlo, te lleva hacia el inicio de la página (este botón aparece al bajar un poco en la página)._
 
