@@ -10,7 +10,7 @@ var valorPedido = 0;
 
 var id = 1;
 
-window.onclick =function aparecerBotonPedido() {
+window.onclick = function aparecerBotonPedido() {
     if (articulosEnPedido===0) {
         document.getElementById("boton-revisar-pedido").style.opacity = 0;
         document.getElementById("boton-revisar-pedido").style.transform = "scaleY(0)";

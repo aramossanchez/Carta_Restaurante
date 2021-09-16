@@ -12,7 +12,7 @@ html,body{
 }
 
 body{
-    background-image: url(./images/fondo.jpg);
+    background-image: url("../images/fondo.jpg");
     background-repeat: repeat;
 }
 
